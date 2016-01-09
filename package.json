@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/TomKemp/sails-hook-synote-connect-wrapper.git"
+    "url": "git://github.com/TomKemp/sails-hook-synoteconnect.git"
   },
   "keywords": [
     "Sails",
@@ -26,6 +26,7 @@
     "isHook": true
   },
   "dependencies": {
-    "lodash": "^3.10.1"
+    "lodash": "^3.10.1",
+    "synote-connect":"TomKemp/synote-connect"
   }
 }
